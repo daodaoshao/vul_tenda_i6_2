@@ -1,4 +1,4 @@
-# Tenda APi6 vV1.0.0.8(3856) Stack Overflow
+# Tenda APi6 V1.0.0.8(3856) Stack Overflow
 ## Firmware information
 
 Manufacturer's address:https://www.tenda.com.cn/
